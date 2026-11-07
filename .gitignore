@@ -1,0 +1,6 @@
+# Raw Dataset
+data/raw/
+
+# Python cache
+_pycache_/
+*.pyc

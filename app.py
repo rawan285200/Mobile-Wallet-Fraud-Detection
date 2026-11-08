@@ -1,4 +1,7 @@
+import sys
+import streamlit as st
 
+st.write("Python Version:", sys.version)
 
 import streamlit as st
 import pandas as pd
